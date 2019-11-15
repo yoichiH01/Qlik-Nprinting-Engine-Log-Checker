@@ -13,7 +13,7 @@
 3. Open "NP_EngineLog-Checker-v1.0.qvw" using QlikView Desktop.
 4. At "Qlik Nprinting Engine Log folder path" section on Configuration Sheet, Enter path where you stored Qlik Nprinting Engine logs in No2.
   By default the path is set to "C:\yheTemp\Nprinting", please change it to fit to your environment.
-  Note: Please don't include '\ into last character of the path.  
+  Note: Please don't include '\(slash)' into last character of the path.  
 5. Click Reload button on Configuration Sheet. Logs will be loaded into the app
 6. Go to "Logs" Tab and see the data
 
